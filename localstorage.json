@@ -1,0 +1,34 @@
+{
+  "cookies": [],
+  "origins": [
+    {
+      "origin": "https://admin-staging.aonewallet.com",
+      "localStorage": [
+        {
+          "name": "ld:$anonUserId",
+          "value": "f61c2860-099d-11ee-93c7-45207178f6fe"
+        },
+        {
+          "name": "ld:5e9819f706b793070087eb48:$diagnostics",
+          "value": "{\"dataSinceDate\":1686628454914,\"droppedEvents\":0,\"eventsInLastBatch\":0,\"streamInits\":[]}"
+        },
+        {
+          "name": "BOaccessToken",
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiQURNSU4iLCJqdGkiOiJhY2Nlc3M6YWNjXzE1ZDc2NTQzZWRlMzU5MjZhODE4Yzg5NTllYzYxNTY1OjBjMDI5Njk0LWEyZmYtNDNlNC1hMGU2LWNkMzA3MGYyMGM5ZCIsInNlc3Npb24iOiJzc25fMWZmOGIxNGE5YjhiNDdjMTliMWFjMGRlNWM3ZTk2NjciLCJpYXQiOjE2ODY2Mjg0NjIsImV4cCI6MTY4OTIyMDQ2Miwic3ViIjoiYWNjXzE1ZDc2NTQzZWRlMzU5MjZhODE4Yzg5NTllYzYxNTY1In0.L0MVfqlB_nP9X9LTL-19ENeFptBnMu76BsuMND7hwlY"
+        },
+        {
+          "name": "locale",
+          "value": "en"
+        },
+        {
+          "name": "APP_VERSION",
+          "value": "\"42e7d728-613c-44e5-a28a-395aebee472e\""
+        },
+        {
+          "name": "BOrefreshToken",
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiQURNSU4iLCJqdGkiOiJyZWZyZXNoOmFjY18xNWQ3NjU0M2VkZTM1OTI2YTgxOGM4OTU5ZWM2MTU2NTo0YjEwZWRkMS00NjdjLTRjNDQtYmYxMS1hYmQ3ZTIyZDNkMDgiLCJzZXNzaW9uIjoic3NuXzFmZjhiMTRhOWI4YjQ3YzE5YjFhYzBkZTVjN2U5NjY3IiwiZm9yZ2V0IjpmYWxzZSwiaWF0IjoxNjg2NjI4NDYyLCJleHAiOjE2ODkyMjA0NjIsInN1YiI6ImFjY18xNWQ3NjU0M2VkZTM1OTI2YTgxOGM4OTU5ZWM2MTU2NSJ9.lQ0jB3l83OwnpCJ0WfEcqoe_gWTNb-ECpjlOtM5QdU8"
+        }
+      ]
+    }
+  ]
+}
