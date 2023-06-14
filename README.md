@@ -5,4 +5,4 @@ Mailosaur is a service that captures email and SMS messages and lets you test th
 
 If you don’t already have one, create a free account trial now, and send an email into Mailosaur first. Once you have this working, you’re ready to start testing!
 
-Follow this steps: https://mailosaur.com/docs/frameworks-and-tools/playwright/
+Follow these steps: https://mailosaur.com/docs/frameworks-and-tools/playwright/
