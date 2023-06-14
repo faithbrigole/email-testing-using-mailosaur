@@ -10,7 +10,7 @@ import { defineConfig, devices } from "@playwright/test";
  * See https://playwright.dev/docs/test-configuration.
  */
 export default defineConfig({
-  globalSetup: "./tests/helpers/globalSetup",
+  // -globalSetup: "./tests/helpers/globalSetup",
   testDir: "./tests",
   timeout: 90 * 1000,
   /* Run tests in files in parallel */
@@ -39,7 +39,7 @@ export default defineConfig({
       use: {
         ...devices["Desktop Chrome"],
         headless: true,
-        storageState: "./localstorage.json",
+        // -storageState: "./localstorage.json",
       },
     },
     // {
