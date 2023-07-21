@@ -10,7 +10,7 @@ export async function createMember(
   },
   accessToken: string
 ) {
-  const response = await request("https://api-admin-staging.aonewallet.com")
+  const response = await request("https://api-admin-staging.admin.com")
     .post("/graphql")
     .set("Authorization", `Bearer ${accessToken}`)
     .send({

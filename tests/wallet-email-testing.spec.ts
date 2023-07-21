@@ -40,7 +40,7 @@ test("Verify member can receive email upon clicking Timeout Facility", async ({
   );
 
   // login to web-portal
-  await page.goto("https://qa-staging.aonewallet.com/login");
+  await page.goto("https://qa-staging.admin.com/login");
   await page.getByPlaceholder("Username").click();
   await page.getByPlaceholder("Username").type(userName);
   await page.getByPlaceholder("Password").click();
@@ -98,7 +98,7 @@ test("Verify member can receive email after creating an account", async ({
   );
 
   // login to web-portal
-  await page.goto("https://qa-staging.aonewallet.com/login");
+  await page.goto("https://qa-staging.admin.com/login");
   await page.getByPlaceholder("Username").click();
   await page.getByPlaceholder("Username").type(userName);
   await page.getByPlaceholder("Password").click();
